@@ -1,0 +1,14 @@
+.gesture_password_container{
+	width : 300px;
+	height: 300px;
+	border: 1px solid black;
+}
+#line{
+	position: absolute;
+	width: 300px;
+	height: 5px;
+	background-color: blue;
+	transform: rotate(45deg);
+	top: 300px;
+	left: 300px;
+}
